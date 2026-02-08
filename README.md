@@ -92,7 +92,6 @@ npm init playwright@latest
 npx playwright install
 ```
 
-
 Add Extension
 Playwright Test for VSCode
 ---

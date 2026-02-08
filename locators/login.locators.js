@@ -5,4 +5,5 @@ class LoginLocators {
   dashboardText = 'h6:has-text("Dashboard")';
 }
 
+
 module.exports = { LoginLocators };
