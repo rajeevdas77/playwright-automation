@@ -59,11 +59,14 @@ playwright-orangehrm/
 * VS Code
 * Git
 
-Check Node version:
+Check Node and npm version:
 
 ```bash
 node -v
+npm -v
 ```
+
+
 
 ---
 
@@ -85,6 +88,7 @@ npm install
 Install Playwright browsers:
 
 ```bash
+npm init playwright@latest
 npx playwright install
 ```
 
@@ -106,8 +110,8 @@ File: `config/env.js`
 module.exports = {
   url: "https://opensource-demo.orangehrmlive.com/web/index.php/auth/login",
   credentials: {
-    username: "Admin",
-    password: "admin123"
+    username: "",
+    password: ""
   }
 };
 ```
