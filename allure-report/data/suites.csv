@@ -1,0 +1,4 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","8339","Verify user can login with valid credentials","chromium","2026-02-08","passed","2026-02-08","","login.spec.js","",""
+"","24222","Verify user can login with valid credentials","webkit","2026-02-08","passed","2026-02-08","","login.spec.js","",""
+"","22412","Verify user can login with valid credentials","firefox","2026-02-08","passed","2026-02-08","","login.spec.js","",""
